@@ -10,4 +10,6 @@
     <string name="confirm_label">Confirm Password:</string>
     <string name="confirm_edit">Please confirm your password</string>
     <string name="submit">Submit</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="welcome_format">Welcome, %1$s!</string>
 </resources>
